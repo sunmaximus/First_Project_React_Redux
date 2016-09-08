@@ -1,7 +1,6 @@
 # First_Project_React_Redux
 
-This project is a code a long with Stephen
-
+This project is from a code a long course with [Stephen Grider](https://github.com/stephengrider) on [Udemy](https://www.udemy.com)
 
 
 * To Begin:
