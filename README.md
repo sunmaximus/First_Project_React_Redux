@@ -1,6 +1,23 @@
 # First_Project_React_Redux
 
-To start:
+This project is a code a long with Stephen
 
-$: npm install
-$: npm start
+
+
+* To Begin:
+
+```
+> $ git clone THIS_REPO_URL
+```
+
+* Then install the dependencies:
+
+```
+> $ npm install
+```
+
+* Run development server:
+
+```
+> $ npm start
+```
